@@ -12,6 +12,8 @@ public class Ex11_1 {
         ArrayList kyo = new ArrayList();    // 교집합
         ArrayList cha = new ArrayList();    // 차집합
         ArrayList hap = new ArrayList();    // 합집합
+        ArrayList gyo = new ArrayList();    // 교집합2
+
 
         list1.add(1);
         list1.add(2);
